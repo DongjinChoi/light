@@ -27,7 +27,7 @@ unsigned short g_interval = 0;
 
 const char *dayWeekData[7] = { "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" };
 
-#define MAX_LIGHT 220 // max is 255
+#define MAX_LIGHT 255 // max is 255
 
 #define RISE_HOUR 16
 #define RISE_MIN 1
